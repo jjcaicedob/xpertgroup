@@ -12,3 +12,12 @@ El gráfico muestra una distribución de precios, donde la mayoría de los produ
 Este gráfico permite identificar las categorías con mayor valor total en precios. Las categorías con barras más altas son las que contienen productos más costosos o en mayor cantidad dentro del catálogo.
 ![result4](exploration-data-result-4.png)
 Este gráfico de caja y bigotes muestra la variabilidad de precios según el material. Los materiales como 'Silk' y 'Wool' presentan precios más altos y una mayor dispersión, mientras que materiales como 'Nylon' y 'Cotton' se concentran en precios más bajos.
+
+
+#Interpretaciones
+## Distribución de precios: 
+La mayoría de los productos tienen precios bajos o medios, con pocos productos en el rango más alto.
+## Precio total por categoría: 
+Permite observar qué categorías generan el mayor valor en términos de precio total, mostrando diferencias significativas.
+## Distribución por material: 
+Materiales premium presentan mayor variabilidad y precios elevados, mientras que materiales comunes tienen precios más estables y bajos.
