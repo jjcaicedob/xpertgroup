@@ -1,3 +1,5 @@
+Un Diagrama de Contexto es una representación gráfica de alto nivel que muestra el sistema principal en estudio, sus límites, y las interacciones con actores externos (entidades externas) como usuarios, organizaciones o sistemas externos. Este diagrama permite visualizar el flujo de información entre el sistema central y su entorno, proporcionando una visión clara y simple de cómo el sistema se integra dentro de su contexto.
+
 ![Diagrama del Sistema](context-image.png)
 
 # Descripción de Componentes
