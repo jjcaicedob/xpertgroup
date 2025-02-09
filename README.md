@@ -10,5 +10,5 @@ Diseño de la arquitectura
 
 Implementación Práctica
 1. [Limpieza de datos](/py/cleaning-data.md)
-2. [Exploración de datos](/py/exploration-data.md)
+2. [Exploración de datos](/py/data-exploration.md)
 Presentación para Preventa
