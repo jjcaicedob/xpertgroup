@@ -16,4 +16,4 @@ Implementación Práctica
 5. [Modelamiento Predictivo - XGBoost](/documents/predictive-model-2.md)
 6. [Almacenamiento y Resultados](/documents/store-results.md)
 
-Presentación para Preventa
+[Presentación para Preventa](/presentation/Presentation - Preventas.pdf)
