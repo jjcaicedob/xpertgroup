@@ -9,5 +9,6 @@ Diseño de la arquitectura
 6. [Beneficios técnicos y de negocio de la solución propuesta](/documents/technical-and-business-benefits.md)
 
 Implementación Práctica
-
+1. [Limpieza de datos](/py/cleaning-data.md)
+2. [Exploración de datos](/py/exploration-data.md)
 Presentación para Preventa
