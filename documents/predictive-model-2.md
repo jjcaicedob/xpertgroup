@@ -7,4 +7,4 @@ https://colab.research.google.com/drive/1I3dbvv5aKvLOCKLOSGJ8UwRhQnkzzKRp
 
 Resultados:
 
-![code1](predictive-modeling-result.png)
+![code1](predictive-modeling-2-result.png)
