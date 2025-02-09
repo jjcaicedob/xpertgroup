@@ -7,3 +7,4 @@ https://colab.research.google.com/drive/1C_isBpfQv9c5RJdo_JuoWVbtSfmZo1Y_#scroll
 
 Resultados:
 
+![code1](predictive-modeling-result.png)
