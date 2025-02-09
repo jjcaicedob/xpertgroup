@@ -10,6 +10,26 @@ https://colab.research.google.com/drive/1j-BLBG6vgXuouAjLLTKljmqd2JfjFXLA
 El gráfico muestra una distribución de precios, donde la mayoría de los productos se concentran entre precios bajos y medios. Existen pocos productos con precios altos, lo cual indica una distribución sesgada hacia precios económicos.
 ![result3](exploration-data-result-3.png)
 Este gráfico permite identificar las categorías con mayor valor total en precios. Las categorías con barras más altas son las que contienen productos más costosos o en mayor cantidad dentro del catálogo.
+# **Análisis del Gráfico de Precio Total por Categoría**
+
+## **Descripción del gráfico**
+- **Eje X:** Muestra las distintas categorías de productos, como `Tops`, `Bottoms`, `Outerwear`, etc.
+- **Eje Y:** Representa el precio total acumulado para cada categoría, calculado como la suma de los precios de los productos en esa categoría.
+
+## **Elementos del gráfico**
+- **Barras:** Cada barra representa el precio total acumulado de los productos en una categoría específica.
+- **Altura de las barras:** Indica el valor total de los precios por categoría. Categorías con barras más altas tienen mayor valor en precios.
+
+## **Análisis detallado**
+- **Categorías con mayor precio total:** Las categorías con barras más altas indican una mayor cantidad de productos o productos de alto precio. Esto puede reflejar una oferta variada o una tendencia hacia productos costosos.
+- **Categorías con menor precio total:** Las categorías con barras más bajas sugieren una oferta reducida o productos generalmente económicos.
+- **Variabilidad:** Una distribución desigual de las barras sugiere que algunas categorías son más dominantes en términos de valor económico dentro del catálogo.
+
+## **Conclusiones**
+1. Las categorías de productos con mayores valores totales pueden representar una estrategia comercial basada en productos premium o en una oferta más amplia.
+2. Las categorías con valores más bajos podrían ser una oportunidad para diversificar la oferta o aumentar el margen de ganancias.
+3. Esta visualización permite identificar patrones clave para decisiones comerciales, como cuáles categorías necesitan más inventario o estrategias de pricing diferenciadas.
+
 ![result4](exploration-data-result-4.png)
 Este gráfico de caja y bigotes muestra la variabilidad de precios según el material. Los materiales como 'Silk' y 'Wool' presentan precios más altos y una mayor dispersión, mientras que materiales como 'Nylon' y 'Cotton' se concentran en precios más bajos.
 
