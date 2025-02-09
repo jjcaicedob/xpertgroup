@@ -1,6 +1,6 @@
 Para centralizar los datos y resultados en formatos eficientes como Parquet o JSON, podemos implementar el siguiente código al final del entrenamiento del modelo:
 
-
+![store](store-results-code.png)
 
 # Ventajas de los Formatos
 ## Parquet: 
