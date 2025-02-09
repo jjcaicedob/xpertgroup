@@ -1,3 +1,5 @@
+![Diagrama del Sistema](container-image.png)
+
 # Descripción de Contenedores:
 ## Frontend Web
 Aplicación React alojada en un CDN para proporcionar la interfaz de usuario a los clientes.
