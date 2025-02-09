@@ -28,3 +28,7 @@ Resultados:
 1. Error Cuadrático Medio (MSE): Mide el promedio de los errores al cuadrado entre los valores reales y los predichos. Un MSE más bajo indica un mejor ajuste del modelo.
 2. Coeficiente de Determinación (R²): Indica la proporción de la varianza en la variable dependiente que es predecible a partir de las variables independientes. Un valor de R² cercano a 1 indica un buen ajuste del modelo.
 
+## Resultados esperados:
+El código anterior entrenará un modelo de Random Forest Regressor y evaluará su rendimiento en el conjunto de prueba. Los resultados incluirán el MSE y el R², junto con una comparación de algunas predicciones frente a los valores reales.
+
+Este enfoque es adecuado para el problema dado y debería proporcionar una buena base para predecir los precios de las prendas de vestir basado en las características proporcionadas.
