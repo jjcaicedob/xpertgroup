@@ -2,13 +2,6 @@ El código está en la siguiente URL:
 
 https://colab.research.google.com/drive/1C_isBpfQv9c5RJdo_JuoWVbtSfmZo1Y_#scrollTo=LQ0eqGCleTiP
 
-![code1](predictive-modeling-code-1.png)
-![code1](predictive-modeling-code-2.png)
-
-Resultados:
-
-![code1](predictive-modeling-result.png)
-
 Para entrenar un modelo de Machine Learning que prediga los precios basado en el archivo CSV proporcionado, seguí los siguientes pasos:
 
 ## Preprocesamiento de datos: 
@@ -19,3 +12,14 @@ Utilizaremos un modelo de regresión, como Random Forest Regressor, que es adecu
 
 ## Evaluación del modelo: 
 Evaluaremos el modelo usando métricas como el Error Cuadrático Medio (MSE) y el Coeficiente de Determinación (R²).
+
+![code1](predictive-modeling-code-1.png)
+![code1](predictive-modeling-code-2.png)
+
+Resultados:
+
+![code1](predictive-modeling-result.png)
+
+## Justificación del modelo seleccionado:
+1. Random Forest Regressor: Este modelo es adecuado para problemas de regresión y maneja bien las variables categóricas. Además, es robusto frente al sobreajuste y puede capturar relaciones no lineales entre las características y la variable objetivo.
+2. One-Hot Encoding: Esta técnica es útil para convertir variables categóricas en un formato que pueda ser proporcionado a los modelos de Machine Learning, ya que estos modelos no pueden trabajar directamente con datos categóricos.
