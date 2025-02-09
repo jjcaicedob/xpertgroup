@@ -14,5 +14,6 @@ Implementación Práctica
 3. [Modelado Estrella](/documents/star-model.md)
 4. [Modelamiento Predictivo - Random Forest Regressor](/documents/predictive-model.md)
 5. [Modelamiento Predictivo - XGBoost](/documents/predictive-model-2.md)
+6. [Almacenamiento y Resultados](/documents/store-results.md)
 
 Presentación para Preventa
