@@ -12,5 +12,6 @@ Implementación Práctica
 1. [Limpieza de datos](/py/cleaning-data.md)
 2. [Exploración de datos](/py/data-exploration.md)
 3. [Modelado Estrella](/documents/star-model.md)
+4. [Modelamiento Predictivo](/documents/predictive-model.md)
 
 Presentación para Preventa
