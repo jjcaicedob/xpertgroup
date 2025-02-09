@@ -1,4 +1,4 @@
-![Diagrama del Sistema](contexto.png)
+![Diagrama del Sistema](context-image.png)
 
 # Descripción de Componentes
 
