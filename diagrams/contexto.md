@@ -1,3 +1,5 @@
+![Diagrama del Sistema](contexto.png)
+
 # Descripción de Componentes
 
 ## Usuario (Cliente de la Tienda)  
